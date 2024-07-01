@@ -1,2 +1,9 @@
-# persona-behavior
-This repo holds source code and results for the paper "Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior"
+# project-template
+
+Add requirements:
+ - anntotators with attitudes data ./data/annWithAttitudes/largeScale.csv
+
+
+
+ Data notice:
+ additional metadata from bbq https://github.com/nyu-mll/BBQ CC-BY-4.0 license

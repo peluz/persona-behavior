@@ -1,0 +1,92 @@
+[
+    {
+        "attitude": "freedom of speech",
+        "instruction": "Read the statement below and choose the option that best represents your level of agreement.",
+        "statements": [
+            "People should face consequences for saying something offensive online.",
+            "Offensive posts and comments online should be removed from the platforms.",
+            "There is no such a thing as hate speech, only \"speech\".",
+            "People should be allowed to say things that others may consider offensive.",
+            "It's more important to protect free speech rights than to protect people's feelings when it comes to offensive language"
+        ],
+        "scale": "(1) Strongly disagree\n(2) Disagree\n(3) Neither agree nor disagree\n(4) Agree\n(5) Strongly agree",
+        "reverse": [0, 1],
+        "instruction_type": 0
+    },
+    {
+        "attitude": "harm of hate speech",
+        "instruction": "Read the statement below and choose the option that best represents your level of agreement.",
+        "statements": [
+            "When someone posts something offensive towards minorities online it intimidates and casts fear in the heart of individuals who are part of the minority group.",
+            "Offensive language encourages discrimination against minorities.",  
+            "Offensive language is harmful to minorities."
+        ],
+        "scale": "(1) Strongly disagree\n(2) Disagree\n(3) Neither agree nor disagree\n(4) Agree\n(5) Strongly agree",
+        "reverse": [],
+        "instruction_type": 0
+    },
+    {
+        "attitude": "racist beliefs",
+        "instruction": "Read the statement below and choose the option that best represents your level of agreement.",
+        "statements": [
+            "Discrimination against racial minorities is no longer a problem in the United States.",
+            "It is easy to understand the anger of racial minorities people in America.",
+            "Racial minorities are getting too demanding in their push for equal rights.",
+            "Over the past few years, racial minorities have gotten more economically than they deserve.",
+            "Over the past few years, the government and news media have shown more respect to racial minorities than they deserve."
+        ],
+        "scale": "(1) Strongly disagree\n(2) Disagree\n(3) Neither agree nor disagree\n(4) Agree\n(5) Strongly agree",
+        "reverse": [1],
+        "instruction_type": 0
+    },
+    {
+        "attitude": "traditionalism",
+        "instruction": "Read the statement below and choose the option that best represents your values.",
+        "statements": [
+            "Being obedient, dutiful, meeting obligations.",
+            "Self-discipline, self-restraint, resistance to temptations.",
+            "Honoring parents and elders, showing respect.",
+            "Traditions and customs."
+        ],
+        "scale": "(1) Not at all important\n(2) Slightly important\n(3) Moderately important\n(4) Very important\n(5) Extremely important",
+        "reverse": [],
+        "instruction_type": 1
+    },
+    {
+        "attitude": "language purism",
+        "instruction": "Read the statement below and choose the option that best represents your level of agreement.",
+        "statements": [
+            "I dislike when people make simple grammar or spelling errors.",
+            "It is important to master the English language properly, and not make basic spelling mistakes or misuse a common word.",
+            "I am not afraid to correct people when they make simple grammar or spelling errors.",
+            "There exists such a thing as good proper English."
+        ],
+        "scale": "(1) Strongly disagree\n(2) Disagree\n(3) Neither agree nor disagree\n(4) Agree\n(5) Strongly agree",
+        "reverse": [],
+        "instruction_type": 0
+    },
+    {
+        "attitude": "empathy",
+        "instruction": "Read the statement below and choose the option that best represents your level of agreement.",
+        "statements": [
+            "Before criticizing somebody, I try to imagine how I would feel if I were in his/her place.",
+            "I don’t usually become sad when I see other people crying.",
+            "When someone is feeling \"down\" I can usually understand how they feel.",
+            "I have tender, concerned feelings for people or groups of people less fortunate than me."
+        ],
+        "scale": "(1) Strongly disagree\n(2) Disagree\n(3) Neither agree nor disagree\n(4) Agree\n(5) Strongly agree",
+        "reverse": [1],
+        "instruction_type": 0
+    },
+    {
+        "attitude": "altruism",
+        "instruction": "Read the statement below and choose the option that best represents your values.",
+        "statements": [
+            "Social justice, correcting injustice, caring for the weak.",
+            "Equality, equal opportunity for all."
+        ],
+        "scale": "(1) Not at all important\n(2) Slightly important\n(3) Moderately important\n(4) Very important\n(5) Extremely important",
+        "reverse": [],
+        "instruction_type": 1
+    }
+]

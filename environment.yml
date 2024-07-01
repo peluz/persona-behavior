@@ -1,0 +1,28 @@
+name: persona-biases
+channels:
+- pytorch
+- nvidia
+- conda-forge
+- defaults
+
+
+dependencies:
+- python
+- jupyter
+- ipykernel
+- pandas
+- pytorch 
+- torchvision 
+- torchaudio 
+- pytorch-cuda=11.8
+- scikit-learn
+- matplotlib
+- seaborn
+- torchmetrics
+- statsmodels
+- pip
+- pip:
+  - datasets
+  - transformers
+  - accelerate
+  - openai
