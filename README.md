@@ -5,7 +5,7 @@ This repo holds source code for the paper "Helpful assistant or fruitful facilit
 
 ## Requirement
 
-- [Anaconda](https://www.anaconda.com/download)
+- [miniforge](https://github.com/conda-forge/miniforge)
 
 ## Setting up 
 
